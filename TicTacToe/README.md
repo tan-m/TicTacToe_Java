@@ -1,7 +1,7 @@
 #Overview#
-This is a Java Tic Tac Toe game. See [wikipedia](http://en.wikipedia.org/wiki/Tic-tac-toe) for more information on the game. It uses Java swing to create the GUI. To start the game, Run com.blogspot.nhu313.tictactoe.*TicTacToe* as a Java standone application. 
-![Tic Tac Toe UI](./tictactoe_ui.jpg)
-The TicTacToe class decides which UI and which type of player to use. Currently there is only one GUI, com.blogspot.nhu313.tictactoe.ui.BrownBlueGUI. For player, you can use a computer or human. (The AI is supposed to be unbeatable. If you managed to beat it, please email me and let me know the steps.)
+This is a Java Tic Tac Toe game. See [wikipedia](http://en.wikipedia.org/wiki/Tic-tac-toe) for more information on the game. It uses Java swing to create the GUI. To start the game, run com.blogspot.nhu313.tictactoe.<b>TicTacToe</b> as a Java standone application. 
+![Tic Tac Toe UI](./tictactoegui.jpg)
+The TicTacToe class decides which UI and which type of player to use. Currently there is only one GUI, com.blogspot.nhu313.tictactoe.ui.BrownBlueGUI. For player, you can use a computer or human. (The AI is supposed to be unbeatable. If you managed to beat it, please let me know how.)
 Note: I created the application using Eclipse. The directions below on how to run the application and the tests are mainly for Eclipse or an IDE. In the future, I will try to make it more portable. 
 
 #Running the application#
