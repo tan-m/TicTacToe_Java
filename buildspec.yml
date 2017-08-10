@@ -1,0 +1,19 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - echo Nothing to do in the install phase...
+  pre_build:
+    commands:
+      - echo Nothing to do in the pre_build phase...
+  build:
+    commands:
+      - echo Build started on `date`
+      - echo javac $(find src -name "*.java") && cd src/ && jar cvfm tic.jar ../manifest.txt com
+  post_build:
+    commands:
+      - echo Build completed on `date`
+artifacts:
+  files:
+    - src/tic.jar
