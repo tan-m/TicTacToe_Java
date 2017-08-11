@@ -1,4 +1,4 @@
-This is a another change in the demo..
+This is a another change in the demo. Another change.
 #Overview#
 This is a Java Tic Tac Toe game. See [wikipedia](http://en.wikipedia.org/wiki/Tic-tac-toe) for more information on the game. It uses Java swing to create the GUI. To start the game, run com.blogspot.nhu313.tictactoe.<b>TicTacToe</b> as a Java standone application. 
 
